@@ -226,7 +226,7 @@ We would also like to distribute additional scenarios with the game, when the ti
 
 # 7. Sponsors
 
-Companies that kindly allow us to use their stuff:
+Companies that kindly allow us to use their stuff :
 
 | [DigitalOcean](https://www.digitalocean.com/) | [JetBrains](https://www.jetbrains.com/) | [Backtrace](https://backtrace.io/) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
